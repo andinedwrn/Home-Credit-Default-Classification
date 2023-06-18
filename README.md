@@ -1,1 +1,5 @@
 # Home-Credit-Default-Classification
+
+Home Credit recognizes the value of their data and believes there is untapped potential in it. The objective is to explore and leverage the available data sources to discover meaningful insights and develop innovative strategies. This includes utilizing statistical and machine learning methods, as well as exploring advanced techniques to extract hidden patterns, identify relevant features, and improve the overall predictive power of the models.
+
+Model development is closely related to the Home Credit business domain. In the credit industry, model development plays a crucial role in helping Home Credit make better loan decisions and effectively manage credit risk. By leveraging alternative data, Home Credit can gain deeper insights into the repayment abilities of their clients and improve the overall borrowing experience. With accurate models, Home Credit can expand financial inclusion for underserved populations and provide a positive and safe borrowing experience for their clients.
